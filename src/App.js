@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-          Chamindu pushpika website comming soon..!
+          Akina AI New Version Bot website comming soon..!
       </header>
     </div>
   );
